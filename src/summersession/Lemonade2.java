@@ -10,6 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author Nina
+ * This program mimics the function of a lemonade stand
  */
 public class Lemonade2 {
     public static void main(String[] args) {
